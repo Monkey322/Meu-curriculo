@@ -1,12 +1,13 @@
 body {
     font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
 
 }
 .cabecalho{
     text-align: center;
     margin-bottom: 30px;
 }
-
+    
 h2 {
     color: orange;
 }
