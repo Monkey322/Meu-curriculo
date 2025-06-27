@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.cabecalho{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: orange;
+}
+ul {
+    list-style: square;
+}
+img {
+    display:block;
+    margin: 0 auto 20px;
+    border-radius: 50%;
+    width: 350px;
+}
